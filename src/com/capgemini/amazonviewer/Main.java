@@ -35,7 +35,8 @@ import com.capgemini.util.AmazonUtil;
  * @version 1.0
  * @since 2020
  * 
- * 
+ *
+ * hello :_)
  * */
 
 public class Main {
@@ -94,7 +95,7 @@ public class Main {
 	
 				default:
 					System.out.println();
-					System.out.println("....¡Selecciona una opcion!!....");
+					System.out.println("....ï¿½Selecciona una opcion!!....");
 					System.out.println();
 					exit = 1;
 					break;
